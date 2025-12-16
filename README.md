@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><BR><br><br>Olá tudo bem ? me chamo Guilherme, tenho 18 anos e atualmente sou estudante e desenvolvedor Fullstack, uma das minhas principais habilidades é a facilidade em aprender, o que me torna apto a aprender novas linguagens e formas de desenvolver aplicações.<br><br>< US ><br><br>Hello, my name is Guilherme, I'm 18 years old and I'm currently a student and Fullstack developer, one of my main skills is my ability to learn, which makes me able to learn new languages ​​and ways of developing applications.</p>
+<p align="left">Automation Developer </p>
 
 ###
 
@@ -103,11 +103,6 @@
 
 <h2 align="left">Social media</h2>
 
-###
-
-<p align="left">Conecte-se ao meu linkedin e acompanhe um pouco mais sobre o meu trabalho !!</p>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-massucato-6501bb236/" target="_blank">
