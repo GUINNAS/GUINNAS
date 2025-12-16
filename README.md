@@ -1,9 +1,3 @@
-<h1 align="left">World of Guinnas</h1>
-
-###
-
-<p align="left">Automation Developer </p>
-
 ###
 
 <h2 align="left"></h2>
